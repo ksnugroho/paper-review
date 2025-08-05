@@ -1,3 +1,10 @@
+# Paper List
+
+<b>Computer Vision-Based Pose Estimation for Student Engagement Detection: Trends and Challenges</b><br>
+7th International Conference on Cybernetics and Intelligent Systems (ICORIS)<br>
+
+
+
 |   No | Authors                                                                                               | Title                                                                                                                          |   Year | Source                                                                 | DOI                                                                                |
 |-----:|:------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|-------:|:-----------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
 |    1 | Tang, L., Gao, C., Chen, X., & Zhao, Y.                                                               | Pose Detection In Complex Classroom Environment Based On Improved Faster R-CNN                                                 |   2018 | IET Image Processing                                                   | [10.1049/iet-ipr.2018.5905](https://doi.org/10.1049/iet-ipr.2018.5905)             |
