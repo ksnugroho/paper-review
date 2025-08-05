@@ -1,9 +1,9 @@
-# Paper List
+# Paper Review List
 
 <b>Computer Vision-Based Pose Estimation for Student Engagement Detection: Trends and Challenges</b><br>
 7th International Conference on Cybernetics and Intelligent Systems (ICORIS)<br>
-
-
+<br>
+<i>Gabriel Asael Tarigan, Gregorius Natanael Elwirehardja, Kuncahyo Setyo Nugroho, Bens Pardamean</i>
 
 |   No | Authors                                                                                               | Title                                                                                                                          |   Year | Source                                                                 | DOI                                                                                |
 |-----:|:------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|-------:|:-----------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
