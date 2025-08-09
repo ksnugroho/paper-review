@@ -1,3 +1,10 @@
+# Paper Review List
+
+<b>A Systematic Review on Computer Vision-based Shrimp Larvae Detection and Counting</b><br>
+1st International Conference on Artificial Intelligence Technology (ICoAIT) 2025<br>
+<br>
+<i>Taufik Budhi Pramono, Muhammad Arfian Praniza, Kuncahyo Setyo Nugroho, Mahmud Isnan, Bens Pardamean</i>
+
 | No | Authors | Title | Year | Source | DOI |
 |----|---------|-------|------|--------|-----|
 | 1 | Khantuwan, W., & Khiripet, N.  | Live shrimp larvae counting method using co-occurrence color histogram | 2012 | 9th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON 2012) | [10.1109/ECTICon.2012.6254280](https://doi.org/10.1109/ECTICon.2012.6254280) |
