@@ -1,10 +1,17 @@
+# Paper Review List
+
+<b>Machine Learning for Genetic Disease Prediction: A Systematic Review</b><br>
+1st International Conference on Artificial Intelligence Technology (ICoAIT) 2025<br>
+<br>
+<i>Eric Savero Hermawan, Gregorius Natanael Elwirehardja, Kuncahyo Setyo Nugroho, Bens Pardamean</i>
+
 | No | Authors | Title | Year | Source | DOI |
 |----|---------|-------|------|--------|-----|
 | 1 | Sanz, H., Valim, C., Vegas, E., Oller, J. M., & Reverter, F.  | SVM-RFE: Selection and Visualization of the Most Relevant Features Through Non-linear Kernels | 2018 | BMC Bioinformatics | [10.1186/s12859-018-2451-4](https://doi.org/10.1186/s12859-018-2451-4) |
 | 2 | Alzubi, R., Ramzan, N., Alzoubi, H., & Amira, A.  | A Hybrid Feature Selection Method for Complex Diseases SNPs | 2018 | IEEE Access | [10.1109/ACCESS.2017.2778268](https://doi.org/10.1109/ACCESS.2017.2778268) |
 | 3 | Wang, M., Tai, C., E, W., & Wei, L. | DeFine: Deep Convolutional Neural Networks Accurately Quantify Intensities of Transcription Factor-DNA Binding and Facilitate Evaluation of Functional Non-coding Variants | 2018 | Nucleic Acids Research | [10.1093/nar/gky215](https://doi.org/10.1093/nar/gky215) |
 | 4 | Cenggoro, T. W., Mahesworo, B., Budiarto, A., Baurley, J., Suparyanto, T., & Pardamean, B. | Features Importance in Classification Models for Colorectal Cancer Cases Phenotype in Indonesia | 2019 | Procedia Computer Science | [10.1016/j.procs.2019.08.172](https://doi.org/10.1016/j.procs.2019.08.172) |
-| 5 | Ji, S. | Deep Learning for Genome-wide Association Studies and the Impact of SNP Locations  | 2019 | Memorial University Research Repository | [https://research.library.mun.ca/14272/](https://doi.org/https://research.library.mun.ca/14272/) |
+| 5 | Ji, S. | Deep Learning for Genome-wide Association Studies and the Impact of SNP Locations  | 2019 | Memorial University Research Repository | [https://research.library.mun.ca/14272/](https://research.library.mun.ca/14272/) |
 | 6 | Xu, L., Walker, B., Liang, P.-I., Tong, Y., Xu, C., Su, Y. C., & Karsan, A.  | Colorectal Cancer Detection Based on Deep Learning | 2020 | Journal of Pathology Informatics | [10.4103/jpi.jpi_68_19](https://doi.org/10.4103/jpi.jpi_68_19) |
 | 7 | Pirmoradi, S., Teshnehlab, M., Zarghami, N., & Sharifi, A. | A Self-organizing Deep Auto-Encoder approach for Classification of Complex Diseases using SNP Genomics Data | 2020 | Applied Soft Computing | [10.1016/j.asoc.2020.106718](https://doi.org/10.1016/j.asoc.2020.106718) |
 | 8 | Behravan, H., Hartikainen, J. M., Tengström, M., Kosma, V., & Mannermaa, A | Redicting Breast Cancer Risk Using Interacting Genetic and Demographic Factors and Machine Learning | 2020 | Scientific Reports | [10.1038/s41598-020-66907-9](https://doi.org/10.1038/s41598-020-66907-9) |
