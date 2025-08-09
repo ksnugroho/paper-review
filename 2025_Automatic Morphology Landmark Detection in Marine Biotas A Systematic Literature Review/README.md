@@ -1,3 +1,10 @@
+# Paper Review List
+
+<b>Automatic Morphology Landmark Detection in Marine Biotas: A Systematic Literature Review</b><br>
+1st International Conference on Artificial Intelligence Technology (ICoAIT) 2025<br>
+<br>
+<i>Matthew Martianus Henry, Kuncahyo Setyo Nugroho, Rudi Nirwantono, Baruna Kusuma, Bens Pardamean</i>
+
 | No | Authors | Title | Year | Source | DOI |
 |----|---------|-------|------|--------|-----|
 | 1 | Singh, P., & Seto, M. | Morphological Landmark Detection on Lobsters Using Attention Networks | 2009 | 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC) | [10.1109/SMC.2019.8913995](https://doi.org/10.1109/SMC.2019.8913995) |
