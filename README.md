@@ -17,9 +17,9 @@ Each directory corresponds to a **specific SLR topic**. Inside each folder, you 
 ## 📄 Published SLR Papers
 
 The following SLR studies have been completed and published based on curated literature in this repository:
-- 2026 - Deep Learning for Indonesian Sign Language Recognition: Methods, Trends, and Public Dataset.
+- 2026 — Deep Learning for Indonesian Sign Language Recognition: Methods, Trends, and Public Dataset.
 https://doi.org/10.1109/ICCRAIDS67816.2026.11519748 | [GitHub](https://github.com/ksnugroho/paper-review/tree/main/2026_Deep%20Learning%20for%20Indonesian%20Sign%20Language%20Recognition%20Methods%2C%20Trends%2C%20and%20Public%20Dataset)
-- 2026 - Hybrid Deep Learning-Based Sentiment Analysis for Stock Market Euphoria: A Review of Recent Advances.
+- 2026 — Hybrid Deep Learning-Based Sentiment Analysis for Stock Market Euphoria: A Review of Recent Advances.
 https://doi.org/10.1109/ICCRAIDS67816.2026.11519762 | [GitHub](https://github.com/ksnugroho/paper-review/tree/main/2026_Hybrid%20Deep%20Learning-Based%20Sentiment%20Analysis%20for%20Stock%20Market%20Euphoria%20A%20Review%20of%20Recent%20Advances)
 - 2025 — Computer Vision-Based Pose Estimation for Student Engagement Detection: Trends and Challenges. 
 https://doi.org/10.1109/ICORIS67789.2025.11296082 | [GitHub](https://github.com/ksnugroho/paper-review/tree/main/2025_Computer%20Vision-Based%20Pose%20Estimation%20for%20Student%20Engagement%20Detection)
@@ -29,6 +29,8 @@ https://doi.org/10.1109/ICoAIT67446.2025.11308837 | [GitHub](https://github.com/
 https://doi.org/10.1109/ICoAIT67446.2025.11309191 | [GitHub](https://github.com/ksnugroho/paper-review/tree/main/2025_Automatic%20Morphology%20Landmark%20Detection%20in%20Marine%20Biotas%20A%20Systematic%20Literature%20Review)
 - 2025 — Machine Learning for Genetic Disease Prediction: A Systematic Review.
 https://doi.org/10.1109/ICoAIT67446.2025.11308727 | [GitHub](https://github.com/ksnugroho/paper-review/tree/main/2025_Machine%20Learning%20for%20Genetic%20Disease%20Prediction%20A%20Systematic%20Review)
+
+The repository provides only the curated paper lists and bibliographic references. If you would like to request a copy of any published SLR paper, please contact: [kuncahyo.nugroho@binus.edu (mailto:kuncahyo.nugroho@binus.edu) 
 
 
 ## 📜 Disclaimer
