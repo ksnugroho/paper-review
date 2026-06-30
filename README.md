@@ -30,7 +30,7 @@ https://doi.org/10.1109/ICoAIT67446.2025.11309191 | [GitHub](https://github.com/
 - 2025 — Machine Learning for Genetic Disease Prediction: A Systematic Review.
 https://doi.org/10.1109/ICoAIT67446.2025.11308727 | [GitHub](https://github.com/ksnugroho/paper-review/tree/main/2025_Machine%20Learning%20for%20Genetic%20Disease%20Prediction%20A%20Systematic%20Review)
 
-The repository provides only the curated paper lists and bibliographic references. If you would like to request a copy of any published SLR paper, please contact: [kuncahyo.nugroho@binus.edu (mailto:kuncahyo.nugroho@binus.edu) 
+The repository provides only the curated paper lists and bibliographic references. If you would like to request a copy of any published SLR paper, please contact: [kuncahyo.nugroho@binus.edu] (mailto:kuncahyo.nugroho@binus.edu) 
 
 
 ## 📜 Disclaimer
